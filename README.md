@@ -1,2 +1,7 @@
-# Redline-Stealer-v30.2
-RedLine Stealer RedLine Stealer is a versatile tool designed for data analysis and network security research. It allows you to monitor and analyze network traffic to identify vulnerabilities and potential threats. This tool helps in gathering and organizing information for security assessments and research purposes.
+# RedLine_30.2-Tutorial-Tool
+
+Redline Stealer is a malware available This malware harvests information from browsers such as saved credentials, autocomplete data, and credit card information.
+A system inventory is also taken when running on a target machine, to include details such as the username, location data,
+hardware configuration, and information regarding installed security software.
+
+Link : t.me/botnets_stealer/1019
